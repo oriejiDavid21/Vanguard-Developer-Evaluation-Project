@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "announcements-client-side-solution",
+    "id": "4dbcf987-533a-4aa9-8ebf-3ba729917121",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/announcements.sppkg"
+  }
+}
